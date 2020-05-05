@@ -10,6 +10,6 @@ npm run dev
 open http://localhost:3000/foo/1
 ```
 
-1. Open browse console
+1. Open browser console
 2. Click Next Page
 3. Observe `console.log` output
